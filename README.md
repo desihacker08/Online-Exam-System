@@ -99,3 +99,8 @@ The Students can list all available examinations to take. In order for them to t
   - `python manage.py runserver`
 7. Keep the terminals open and running.
 8. Open a web browser and browse http://localhost:8000/ or http://127.0.0.1:8000/
+
+
+That's it! I hope this will help you with what you are looking for. Maybe you'll find this Online Exam System useful and can help you with your future Python Django Projects.
+
+Enjoy :)
