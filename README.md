@@ -103,4 +103,4 @@ The Students can list all available examinations to take. In order for them to t
 
 That's it! I hope this will help you with what you are looking for. Maybe you'll find this Online Exam System useful and can help you with your future Python Django Projects.
 
-Enjoy :)
+## Enjoy :)
