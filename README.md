@@ -85,3 +85,17 @@ The Students can list all available examinations to take. In order for them to t
   -  [Windows]()
   -  [Linux]()
 
+## Setup/Installation
+1. Download the source code file from github.
+2. Open your Terminal/Command Prompt window.
+ (make sure to add "python" and "pip" in your environment variables) if not download then follow this step [click]()
+3. Change the working directory to the extracted source code folder. i.e.cd C:\Users\Path\Online-Exam-System\
+4. Run the following commands:
+  - `pip install -r requirements.txt`
+  - `python manage.py migrate`
+5. Create a Superuser by executing the following command:
+  - `python manage.py createsuperuser`
+6. Run the project by executing the following command:
+  - `python manage.py runserver`
+7. Keep the terminals open and running.
+8. Open a web browser and browse http://localhost:8000/ or http://127.0.0.1:8000/
