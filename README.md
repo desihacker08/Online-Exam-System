@@ -82,7 +82,7 @@ The Students can list all available examinations to take. In order for them to t
 ## Download/Install the following
 - [Python](https://www.python.org/downloads/) [Installation Process](https://github.com/desihacker08/Online-Exam-System/blob/Coad/OnlinExaminationSystem/FileInstallation.md#python-install)
 - PIP (for  python modules installation)
-  -  [Windows](https://github.com/desihacker08/Online-Exam-System/blob/Coad/OnlinExaminationSystem/FileInstallation.md#pip-install)
+  -  [Install pip](https://github.com/desihacker08/Online-Exam-System/blob/Coad/OnlinExaminationSystem/FileInstallation.md#pip-install)
 
 ## Setup/Installation
 1. Download the source code file from github.
