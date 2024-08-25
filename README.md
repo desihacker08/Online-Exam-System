@@ -54,3 +54,30 @@ The Students can list all available examinations to take. In order for them to t
   - Delete Student
   - List Students Salaries
 - Logout
+
+### Faculties
+- Login and Registration
+- Dashboard
+  - Displays the Summary of the Uploaded Images
+- Manage Courses
+  - Add New Course
+  - List All Courses
+  - Delete Course
+- Manage Questions
+  - Add New Question
+  - List All Questions
+  - Delete Question
+- Logout
+
+### Students
+- Login and Registration
+- Dashboard
+  - Displays the Summary of the Uploaded Images
+- List Examination
+- List Courses
+- List Exam Results
+- Take Exam
+- Logout
+
+
+
