@@ -79,5 +79,9 @@ The Students can list all available examinations to take. In order for them to t
 - Take Exam
 - Logout
 
-
+## Download/Install the following
+- [Python](https://www.python.org/downloads/)
+- PIP (for  python modules installation)
+  -  [Windows]()
+  -  [Linux]()
 
