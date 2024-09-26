@@ -92,10 +92,26 @@ The Students can list all available examinations to take. In order for them to t
 4. Run the following commands:
   - `pip install -r requirements.txt`
   - `python manage.py migrate`
+### if any error for virtual environment related so at first install check Check if Django is Installed run this command
+    `pip show django` 
+       
+  Create a new virtual environment:
+  
+    `python -m venv .venv` 
+    
+  Activate the virtual environment:
+  
+    Windows: `.venv\Scripts\activate` 
+    Linux: `source .venv/bin/activate` 
+    
+  Install Django and other dependencies:
+  
+    `pip install django` 
+    
 5. Create a Superuser by executing the following command:
-  - `python manage.py createsuperuser`
+  - `python manage.py createsuperuser` 
 6. Run the project by executing the following command:
-  - `python manage.py runserver`
+  - `python manage.py runserver` 
 7. Keep the terminals open and running.
 8. Open a web browser and browse http://localhost:8000/ or http://127.0.0.1:8000/
 
