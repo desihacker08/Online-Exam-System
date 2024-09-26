@@ -108,6 +108,10 @@ The Students can list all available examinations to take. In order for them to t
   
     `pip install django` 
     
+  Run migrations:
+  
+    `python manage.py migrate`
+
 5. Create a Superuser by executing the following command:
   - `python manage.py createsuperuser` 
 6. Run the project by executing the following command:
